@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="commonCode-android">
+    <output-path>E:\CODE WORKSTATION\KOTLIN WORKSPACE\KotlinMultiWeather2\commonCode\build\libs</output-path>
+    <root id="archive" name="commonCode-android.jar">
+      <element id="module-output" name="commonCode_androidMain" />
+    </root>
+  </artifact>
+</component>

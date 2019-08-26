@@ -1,0 +1,3 @@
+include ':kotlinandroidweather'
+include ':kotlindesktopweather'
+include ':commonCode'
